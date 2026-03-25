@@ -10,6 +10,7 @@ LessWrong
 LushStories
 Patched
 PocketStars
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -25,5 +26,6 @@ TryHackMe
 Weblate
 YandexMusic
 mercadolivre
+opennet
 phpRU
 svidbook
