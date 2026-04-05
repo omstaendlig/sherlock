@@ -1,8 +1,6 @@
 7Cups
 APClips
 Archive.org
-Audiojungle
-Blogger
 Codolio
 DeviantArt
 Discord.bio
@@ -19,9 +17,9 @@ Rarible
 Realmeye
 Reddit
 RocketTube
+RuneScape
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -35,4 +33,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
