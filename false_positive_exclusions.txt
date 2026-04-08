@@ -9,9 +9,8 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-Itch.io
 LessWrong
-LushStories
+Minecraft
 Patched
 PocketStars
 Rarible
@@ -22,7 +21,6 @@ Scribd
 Shelf
 SlideShare
 Smule
-SoylentNews
 Splice
 Spotify
 Trovo
