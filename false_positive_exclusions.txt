@@ -13,18 +13,17 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LiveJournal
 LushStories
-Outgress
+OurDJTalk
 Patched
 Pornhub
+Python.org Discussions
 Rarible
 Realmeye
 Reddit
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Smule
 Splice
@@ -40,3 +39,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
