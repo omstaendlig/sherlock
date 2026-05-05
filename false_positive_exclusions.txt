@@ -2,10 +2,11 @@
 APClips
 Airliners
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+CGTrader
 Codolio
 Cults3D
 DeviantArt
@@ -17,6 +18,7 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Patched
 Pornhub
 Rarible
@@ -37,7 +39,6 @@ YandexMusic
 dailykos
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
