@@ -1,11 +1,12 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Carbonmade
 Codolio
-DEV Community
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -37,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
