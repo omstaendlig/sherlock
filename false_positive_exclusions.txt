@@ -3,17 +3,16 @@ Airliners
 Apple Discussions
 Archive.org
 ArtStation
-Audiojungle
 Bandcamp
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Exposure
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LushStories
 Minecraft
 Patched
 Rarible
@@ -26,6 +25,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
