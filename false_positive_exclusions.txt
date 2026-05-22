@@ -4,8 +4,9 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
+BoardGameGeek
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -26,6 +27,7 @@ SlideShare
 Smule
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -36,4 +38,5 @@ igromania
 interpals
 mercadolivre
 opennet
+phpRU
 svidbook
