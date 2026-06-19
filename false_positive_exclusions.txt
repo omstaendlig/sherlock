@@ -23,7 +23,7 @@ Rarible
 Realmeye
 Reddit
 Replit.com
-Scratch
+RocketTube
 Scribd
 Shelf
 SlideShare
@@ -42,5 +42,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
 xHamster
