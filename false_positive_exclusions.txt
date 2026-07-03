@@ -6,9 +6,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 BreachSta.rs Forum
 Codolio
-Cults3D
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,6 +20,7 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
 Patched
@@ -28,6 +30,7 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -44,6 +47,7 @@ fixya
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
