@@ -8,6 +8,7 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -16,9 +17,9 @@ Hashnode
 Houzz
 Hubski
 LessWrong
+LushStories
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -27,10 +28,11 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
@@ -43,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
