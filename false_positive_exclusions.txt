@@ -1,15 +1,15 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-BreachSta.rs Forum
+Carbonmade
 Codolio
 DeviantArt
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
@@ -17,10 +17,8 @@ Hashnode
 Hubski
 LessWrong
 LinkedIn
-LushStories
 Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
 Pornhub
@@ -47,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
