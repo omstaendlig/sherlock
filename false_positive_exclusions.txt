@@ -9,6 +9,7 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,7 +22,6 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -32,13 +32,16 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
 Spotify
+Strava
 Trakt
 Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 authorSTREAM
