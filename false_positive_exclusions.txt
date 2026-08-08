@@ -16,6 +16,7 @@ Envato Forum
 F3.cool
 GeeksforGeeks
 Giphy
+HackerRank
 Hashnode
 Houzz
 Hubski
@@ -37,8 +38,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Strava
-Trakt
 Trovo
 TryHackMe
 Velomania
