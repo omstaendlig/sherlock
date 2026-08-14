@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -9,24 +8,26 @@ Bandcamp
 Blogger
 Chatujme.cz
 Codolio
+Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
-Flipboard
 GeeksforGeeks
 Giphy
+HackenProof (Hackers)
 Hashnode
 Houzz
 Hubski
 Instapaper
 LinkedIn
+LushStories
+Minecraft
 Odysee
 OurDJTalk
 PCGamer
 Patched
-Pornhub
-Pychess
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -38,7 +39,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
