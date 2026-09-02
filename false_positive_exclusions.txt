@@ -1,12 +1,15 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
+ChaturBate
 Codolio
 Cracked Forum
 DeviantArt
@@ -19,12 +22,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 LinkedIn
 LushStories
-Minecraft
+ObservableHQ
 Odysee
 PCGamer
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -44,7 +47,6 @@ Weblate
 YandexMusic
 authorSTREAM
 dailykos
-eintracht
 fixya
 hunting
 igromania
@@ -53,3 +55,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
