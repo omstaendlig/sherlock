@@ -6,14 +6,13 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
-Cracked Forum
 DeviantArt
 Discord.bio
+Dribbble
 Envato Forum
 F3.cool
 GeeksforGeeks
@@ -22,6 +21,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 LushStories
 ObservableHQ
@@ -31,9 +31,7 @@ Pornhub
 Rarible
 Realmeye
 Reddit
-Replit.com
 ReverbNation
-RocketTube
 Scribd
 Shelf
 SlideShare
