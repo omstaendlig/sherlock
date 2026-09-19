@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -21,7 +20,6 @@ Houzz
 Hubski
 Instapaper
 LinkedIn
-LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -37,6 +35,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
@@ -53,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
