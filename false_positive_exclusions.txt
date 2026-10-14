@@ -1,5 +1,6 @@
 7Cups
 Airliners
+Anilist
 Apple Developer
 Apple Discussions
 Archive.org
@@ -21,11 +22,11 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LinkedIn
 Linktree
 LiveJournal
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
