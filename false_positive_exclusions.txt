@@ -1,4 +1,5 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,7 +17,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-Gravatar
 HackerNews
 Hashnode
 Houzz
@@ -52,3 +52,4 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
+xHamster
