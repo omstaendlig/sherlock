@@ -1,4 +1,3 @@
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -22,7 +21,7 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-Minecraft
+LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -36,8 +35,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
@@ -50,4 +51,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
