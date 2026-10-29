@@ -1,9 +1,11 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -21,7 +23,6 @@ Hubski
 Instapaper
 LinkedIn
 Linktree
-LushStories
 ObservableHQ
 Odysee
 PCGamer
@@ -45,6 +46,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
