@@ -10,14 +10,12 @@ DeviantArt
 Discord.bio
 GaiaOnline
 GeeksforGeeks
-Gumroad
 HackerNews
 Hashnode
 Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -26,11 +24,9 @@ Realmeye
 Reddit
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
 SlideShare
-SoylentNews
 Splice
 Spotify
 Trakt
@@ -45,7 +41,6 @@ hunting
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
