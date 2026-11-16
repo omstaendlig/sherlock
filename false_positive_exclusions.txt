@@ -16,7 +16,6 @@ Hubski
 Instapaper
 LinkedIn
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -24,7 +23,7 @@ Rarible
 Realmeye
 Reddit
 ReverbNation
-RuneScape
+RocketTube
 Scribd
 Shelf
 SlideShare
@@ -42,6 +41,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
