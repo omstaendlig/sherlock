@@ -1,7 +1,10 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
+Blogger
+Carbonmade
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -16,19 +19,22 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
+Minecraft
+Mydramalist
 ObservableHQ
 Odysee
 PCGamer
 Rarible
 Realmeye
 Reddit
+ReverbNation
 RocketTube
 Scribd
 Shelf
 SlideShare
-Snapchat
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
 Vero
