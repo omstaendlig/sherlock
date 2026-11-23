@@ -3,8 +3,6 @@ Airliners
 Apple Developer
 Apple Discussions
 Archive.org
-Blogger
-Carbonmade
 Chatujme.cz
 Codolio
 Cracked Forum
@@ -19,8 +17,6 @@ Instapaper
 LinkedIn
 Linktree
 LushStories
-Minecraft
-Mydramalist
 ObservableHQ
 Odysee
 PCGamer
@@ -49,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
